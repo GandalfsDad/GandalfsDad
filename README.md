@@ -1,19 +1,20 @@
 ### About Me 👋
 
-I am a 32 year old from Brisbane Australia. I am probably mostly considered a Data Scientist, but do have a wide range of skills across Data Engineering and Software Engineering. 
+I am a 32 year old from Australia. 
+I currently work as a Data Scientist but have a wide range of skills across Data and Software Engineering.
+
+Most of the contents of the repositories here are weekend hobby projects and learning activities.
 
 ---
 ### Interests
-- 💸 Crypto
 - 🤖 AI
+- 💸 Crypto
 - 🏃‍♂️ Running
 - 🥃 Whisky 
 - 🐔 Korean Fried Chicken
 
 ---
 **Main Tooling:** Python | SQL | VSCode | git | GitHub | Databricks | dbt | anaconda | pip | zsh | Docker
-
-**Other Tooling:** Go | solidity | javascript | powershell 
 
 ---
 ### Links
